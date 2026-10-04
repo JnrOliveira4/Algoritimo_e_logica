@@ -29,12 +29,12 @@ int main()
         
     }   else if(imc < 39.9){
         printf("=================\n");
-        printf("Você está imenso.\n");
+        printf("Você está obeso.\n");
         printf("=================\n");
         
     }   else{
         printf("==============================\n");
-        printf("Você está igual a thais carla.\n");
+        printf("Você está com obesidade morbida.\n");
         printf("==============================\n");
         
     }
